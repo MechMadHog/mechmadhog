@@ -1,6 +1,6 @@
 ### Hello, my name is Michael.
 
-I have a **bold**BA in Creative Digital Media**bold**, which means I have a background in
+I have a **BA in Creative Digital Media**, which means I have a background in
 
 ## 🎨 Design and 🖥️ Development along with an assortment of other ancillary areas.
 
