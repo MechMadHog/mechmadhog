@@ -14,4 +14,4 @@ I have a **BA in Creative Digital Media**, which means I have a background in
   
 
 * ⚡ Fun fact: I have dyspraxia; so it's almost like my thoughts are set to shuffle.
-* 😄 Pronouns: Yer Man | Dat Fella.
+* 😄 Pronouns: Him | Yer Man.
