@@ -1,10 +1,11 @@
-### Hello, my name is Michael.
+### Hello, I'm Mike.
 
 I have a **BA in Creative Digital Media**, which means I have a background in
 
 ## 🎨 Design and 🖥️ Development along with an assortment of other ancillary areas.
 
-* 🔭 I’m currently working on building a portfolio site to put onto my domain.  
+* 🔭 I’m currently working on building a portfolio site to put onto my domain using:
+&nbsp;&nbsp;&nbsp;**HTML & CSS**, **Bootstrap** and **Twig**.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To display / sell my paintings.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A resources page for: Tools / Equipment that I use on a regular basis.  
