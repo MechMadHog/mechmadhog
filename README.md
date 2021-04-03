@@ -4,7 +4,7 @@ I have a **BA in Creative Digital Media**, which means I have a background in
 
 ## 🎨 Design and 🖥️ Development along with an assortment of other ancillary areas.
 
-* 🔭 I’m currently working on building a portfolio site to put onto my domain using:
+* 🔭 I’m currently trying to build a portfolio site to put onto my domain using:
 &nbsp;&nbsp;&nbsp;**HTML & CSS**, **Bootstrap** and **Twig**.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To display / sell my paintings.  
