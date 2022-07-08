@@ -6,6 +6,8 @@ I have a **BA in Creative Digital Media**, as a result I am equiped with a backg
 
 * 🔭 I’m currently working on a couple of side projects.
 * ⚡ Fun fact: I have dyspraxia; so it's almost like my thoughts are set to shuffle.
+
+> Websites Hopefully Coming Soon: Adding little bits and pieces all of the time.
 * [Visit my Dot NET site](https://mechmadhog.com "Visit My Other Test Sites")
 * [Visit my Dot IE site](https://michaelmacdonagh.ie "Visit My Other Test Sites")
 
