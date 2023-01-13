@@ -7,14 +7,13 @@ I have a **BA in Creative Digital Media**, as a result I am equiped with a backg
 * 🔭 I’m currently working on a couple of side projects.
 * ⚡ Fun fact: I have dyspraxia; so it's almost like my thoughts are set to shuffle.
 
-> Websites Hopefully Coming Soon: Adding little bits and pieces all of the time.
-* [Visit my Dot NET site](https://mechmadhog.com "Visit My Other Test Sites")
-* [Visit my Dot IE site](https://michaelmacdonagh.ie "Visit My Other Test Sites")
+> Website Eventually Coming Soon: Adding little bits and pieces all of the time.
+* [Visit my Dot NET site](https://michaelmacdonagh.net "Something to Work Towards")
 
 > Please Feel Free to Contact Me On Any Of The Following Platforms:
 
 ### Email:
-[Send Me an Email](mailto:michael@mechmadhog.com?subject=Hi% "Hi Mike!")
+[Send Me an Email](mailto:mike@michaelmacdonagh.net?subject=Hi% "Hi Mike!")
 
 ### Twitter:
 https://twitter.com/MechMadHog
