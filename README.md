@@ -19,5 +19,4 @@ I have a **BA in Creative Digital Media**, as a result I am equiped with a backg
 https://twitter.com/MechMadHog
 
 ### LinkedIn:
-https://linkedin.com/in/michael-macdonagh-b8363b35/
-
+https://www.linkedin.com/in/michaelmacdonagh/
