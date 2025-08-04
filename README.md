@@ -1,12 +1,18 @@
-### Hey, I'm Mike MacDonagh (a.k.a Mechanical Mad Hog).
+### [🌐 mechmadhog.com](https://mechmadhog.com) | [🧪 CodePen](https://codepen.io/Mike-MacDonagh/)
 
-I’m a **Creative Digital Media graduate** with a passion for blending **design** and **technology**. I specialize in:
+### Hey, I'm Mike MacDonagh (a.k.a Mechanical Mad Hog)
 
-- 🎨 **Design**: Creative direction, visual design, and UI/UX.
-- 🖥️ **Development**: Full-stack web development, automation, and AI.
-- 🔧 **Innovation**: Exploring new tools, coding techniques, and personal projects.
-  
-* 🌱 Currently working on multiple side projects, including AI (Training Walter my personal LLM project), Completing the FCC Curriculum, and building functional web tools with what I have learned.
-* ⚡ Fun fact: I have **dyspraxia**, so my thoughts often shuffle—like a creative brainstorm in overdrive.
+I’m a **Creative Digital Media graduate** passionate about blending **design** and **technology**. I specialize in:
 
-Check out my [personal website](https://mechmadhog.com/) where I share my work, ideas, and progress.
+- 🎨 **Design**: Creative direction, visual design, and UI/UX.  
+- 🖥️ **Development**: Full-stack web development, automation, and AI.  
+- 🔧 **Innovation**: Exploring tools, coding techniques, and building unique personal projects.
+
+🌱 I’m currently:  
+- Training **Walter**, my offline personal LLM assistant  
+- Completing the **FreeCodeCamp curriculum**  
+- Building functional, creative web tools with everything I’ve learned
+
+⚡ **Fun fact**: I have **dyspraxia**, so my thoughts often shuffle—like a creative brainstorm in overdrive.
+
+Check out my [website](https://mechmadhog.com) or browse my [CodePen](https://codepen.io/Mike-MacDonagh/) to see what I’ve been building.
