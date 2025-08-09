@@ -6,7 +6,8 @@ I build things that live where **design** meets **code**.
 Sometimes sleek. Sometimes experimental. Always functional.  
 
 By day, I’m a **Creative Digital Media graduate** turning ideas into interactive realities.  
-By night, I’m training **Walter** — my offline AI sidekick — and testing the limits of what I can build with web tech, automation, and a little stubborn curiosity.  
+By night, I’m training **Walter**... my offline AI sidekick and soon-to-be neuroprosthesis.  
+Together, we’re testing the limits of what I can build with web tech, automation, and a little stubborn curiosity.  
 
 **What I love making:**  
 - 🎨 Interfaces that look good *and* feel good to use  
@@ -20,6 +21,7 @@ By night, I’m training **Walter** — my offline AI sidekick — and testing t
 
 ⚡ **Fun fact**: I have **dyspraxia**, which means my thoughts often take the scenic route… perfect for finding the solutions no one else sees.  
 
-Take a look around — you’ll find working prototypes, polished builds, and the occasional “happy accident.”  
+Take a look around; you’ll find working prototypes, polished builds, and the occasional “happy accident.”  
 [**Visit my site**](https://mechmadhog.com) or dive into my [**CodePen experiments**](https://codepen.io/Mike-MacDonagh/).
+
 
