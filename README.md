@@ -1,18 +1,25 @@
 ### [🌐 mechmadhog.com](https://mechmadhog.com) | [🧪 CodePen](https://codepen.io/Mike-MacDonagh/)
 
-### Hey, I'm Mike MacDonagh (a.k.a Mechanical Mad Hog)
+## Hey, I'm Mike MacDonagh — aka **Mechanical Mad Hog**
 
-I’m a **Creative Digital Media graduate** passionate about blending **design** and **technology**. I specialize in:
+I build things that live where **design** meets **code**.  
+Sometimes sleek. Sometimes experimental. Always functional.  
 
-- 🎨 **Design**: Creative direction, visual design, and UI/UX.  
-- 🖥️ **Development**: Full-stack web development, automation, and AI.  
-- 🔧 **Innovation**: Exploring tools, coding techniques, and building unique personal projects.
+By day, I’m a **Creative Digital Media graduate** turning ideas into interactive realities.  
+By night, I’m training **Walter** — my offline AI sidekick — and testing the limits of what I can build with web tech, automation, and a little stubborn curiosity.  
 
-🌱 I’m currently:  
-- Training **Walter**, my offline personal LLM assistant  
-- Completing the **FreeCodeCamp curriculum**  
-- Building functional, creative web tools with everything I’ve learned
+**What I love making:**  
+- 🎨 Interfaces that look good *and* feel good to use  
+- 🖥️ Tools that actually make people’s lives easier  
+- 🔧 Odd little experiments that somehow… work  
 
-⚡ **Fun fact**: I have **dyspraxia**, so my thoughts often shuffle—like a creative brainstorm in overdrive.
+**Right now I’m:**  
+- Teaching Walter to think without the cloud  
+- Racing through the **FreeCodeCamp curriculum**  
+- Stockpiling a growing arsenal of weird and wonderful web projects  
 
-Check out my [website](https://mechmadhog.com) or browse my [CodePen](https://codepen.io/Mike-MacDonagh/) to see what I’ve been building.
+⚡ **Fun fact**: I have **dyspraxia**, which means my thoughts often take the scenic route… perfect for finding the solutions no one else sees.  
+
+Take a look around — you’ll find working prototypes, polished builds, and the occasional “happy accident.”  
+[**Visit my site**](https://mechmadhog.com) or dive into my [**CodePen experiments**](https://codepen.io/Mike-MacDonagh/).
+
