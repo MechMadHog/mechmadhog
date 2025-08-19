@@ -1,8 +1,11 @@
-### [🌐 mechmadhog.com](https://mechmadhog.com) | [🧪 CodePen](https://codepen.io/Mike-MacDonagh/)
+### Sites  
+- [🌐 mechmadhog.com](https://mechmadhog.com) — Personal hub for experiments, projects, and writing.  
+- [💼 michaelmacdonagh.net](https://michaelmacdonagh.net) — Professional portfolio, CV, and client-ready work.  
+- [🧪 CodePen](https://codepen.io/Mike-MacDonagh/) — Demo environment for my projects library.  
 
 ## Hey, I'm Mike MacDonagh — aka **Mechanical Mad Hog**
 
-I build things that live where **design** meets **code**.  
+I build things that live where **design** meets **development**.  
 Sometimes sleek. Sometimes experimental. Always functional.  
 
 By day, I’m a **Creative Digital Media graduate** turning ideas into interactive realities.  
@@ -22,6 +25,4 @@ Together, we’re testing the limits of what I can build with web tech, automati
 ⚡ **Fun fact**: I have **dyspraxia**, which means my thoughts often take the scenic route… perfect for finding the solutions no one else sees.  
 
 Take a look around; you’ll find working prototypes, polished builds, and the occasional “happy accident.”  
-[**Visit my site**](https://mechmadhog.com) or dive into my [**CodePen experiments**](https://codepen.io/Mike-MacDonagh/).
-
-
+[**Visit mechmadhog.com**](https://mechmadhog.com) | [**See my portfolio**](https://michaelmacdonagh.net) | [**Play with CodePen demos**](https://codepen.io/Mike-MacDonagh/)
