@@ -3,10 +3,11 @@
 I build things that live where **design** meets **development**.  
 Sometimes sleek. Sometimes experimental. Always functional.  
 
-### My Digital Presence
+### Where to Find My Digital Presence
 - [🧪 CodePen](https://codepen.io/Mike-MacDonagh/) — Demo environment for my projects library.
 - [💼 michaelmacdonagh.net](https://michaelmacdonagh.net) — Professional portfolio, CV, and client-ready work.   
 - [🌐 mechmadhog.com](https://mechmadhog.com) — Personal hub for experiments, projects, and writing.  
+
 
 By day, I’m a **Creative Digital Media graduate** turning ideas into interactive realities.  
 By night, I’m training **Walter**... my offline AI sidekick and soon-to-be neuroprosthesis.  
