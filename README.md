@@ -28,8 +28,12 @@ Together, we’re testing the limits of what I can build with web tech, automati
 ---
 
 ### FreeCodeCamp Progress
-- ✅ [Responsive Web Design Certificate](#)  
-- ⏳ Current: JavaScript Algorithms and Data Structures  
+
+#### ✅ Completed:
+- [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)
+
+#### ⏳ In Progress:
+-  JavaScript Algorithms and Data Structures  
 
 ---
 
