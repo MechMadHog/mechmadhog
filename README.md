@@ -25,6 +25,19 @@ Together, we’re testing the limits of what I can build with web tech, automati
 - Moving into the **FreeCodeCamp JavaScript Algorithms and Data Structures** certificate  
 - Stockpiling a growing arsenal of weird and wonderful web projects  
 
+### 🔮 What’s Next
+- Re-skinning all 25 FreeCodeCamp JavaScript projects with my **MechMadHog style** (CRT glow, 16-bit-inspired palettes, oddball UX experiments)  
+- Building **Walter’s Brain**: Obsidian + Docker + Neo4j + local LLMs = my offline cognitive prosthesis  
+
+---
+
+### 🛠️ Tech I’m Playing With
+- **Frontend**: HTML, CSS (custom themes, animations), JavaScript (DOM, regex, games)  
+- **Frameworks**: Jekyll (static sites), CodePen (rapid demos), GitHub Pages (deployment)  
+- **Design Tools**: Figma, Illustrator, Huion Kamvas tablet  
+- **AI/Automation**: n8n, LM Studio, Docker, Anything-LLM  
+- **Platforms**: Windows + Arch Linux (dual-system workflow)  
+
 ---
 
 ### FreeCodeCamp Progress
