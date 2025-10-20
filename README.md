@@ -45,10 +45,11 @@ Together, we’re testing the limits of what I can build with web tech, automati
 ### FreeCodeCamp Progress
 
 #### ⏳ In Progress:
--  JavaScript Algorithms and Data Structures  
+-  Front End Development Libraries  
 
 #### ✅ Completed:
 - [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mechmadhog/javascript-algorithms-and-data-structures-v8)
 
 ---
 
