@@ -1,13 +1,13 @@
-## Hey, I'm Mike MacDonagh — aka **Mechanical Mad Hog**
+## Hey, I'm Mike MacDonagh - aka **Mechanical Mad Hog**
 
 I build things that live where **design** meets **development**.  
 Sometimes sleek. Sometimes experimental. Always functional.  
 
 ### Where to Find Me
-- [💼 michaelmacdonagh.net](https://michaelmacdonagh.net) — Professional portfolio, CV, and client-ready work.   
-- [🌐 mechmadhog.com](https://mechmadhog.com) — Personal hub for experiments, projects, and writing.  
-- [🧪 CodePen Demos](https://codepen.io/collection/OyNaGb) — All Responsive Web Design projects (20 total).  
-- [🔗 LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/) — Let’s connect.  
+- [💼 michaelmacdonagh.net](https://michaelmacdonagh.net) - Professional portfolio, CV, and client-ready work.   
+- [🌐 mechmadhog.com](https://mechmadhog.com) - Personal hub for experiments, projects, and writing.  
+- [🧪 CodePen Demos](https://codepen.io/collection/OyNaGb) - All Responsive Web Design projects (20 total).  
+- [🔗 LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/) - Let’s connect.  
 
 ---
 
