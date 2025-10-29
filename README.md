@@ -28,7 +28,7 @@ Together, we’re testing the limits of what I can build with web tech, automati
 ---
 
 ### 🔮 What’s Next
-- Re-skinning all 25 FreeCodeCamp JavaScript projects with my **MechMadHog style** (CRT glow, 16-bit-inspired palettes, oddball UX experiments)  
+- FrontEnd Libraries - Using REACT to build apps (followed by picking the Frameworks I want t to use for my projects moving forward)
 - Building **Walter’s Brain**: Obsidian + Docker + Neo4j + local LLMs = my offline cognitive prosthesis  
 
 ---
