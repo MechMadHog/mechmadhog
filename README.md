@@ -22,7 +22,7 @@ Together, we’re testing the limits of what I can build with web tech, automati
 
 **Right now I’m:**  
 - Teaching Walter to think without the cloud  
-- Moving into the **FreeCodeCamp JavaScript Algorithms and Data Structures** certificate  
+- Moving into the **FreeCodeCamp Front-End Libraries** certificate  
 - Stockpiling a growing arsenal of weird and wonderful web projects  
 
 ---
