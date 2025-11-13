@@ -28,7 +28,7 @@ Together, we’re testing the limits of what I can build with web tech, automati
 ---
 
 ### 🔮 What’s Next
-- FrontEnd Libraries - Using REACT to build apps (followed by picking the Frameworks I want t to use for my projects moving forward)
+- Data Visualization - Which I guess is going to take over from what Power BI would have been used for moving forward.
 - Building **Walter’s Brain**: Obsidian + Docker + Neo4j + local LLMs = my offline cognitive prosthesis  
 
 ---
@@ -45,11 +45,12 @@ Together, we’re testing the limits of what I can build with web tech, automati
 ### FreeCodeCamp Progress
 
 #### ⏳ In Progress:
--  Front End Development Libraries  
+-  Data Visualization 
 
 #### ✅ Completed:
 - [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mechmadhog/javascript-algorithms-and-data-structures-v8)
+- [Front End Development Libraries](https://www.freecodecamp.org/certification/mechmadhog/front-end-development-libraries)
 
 ---
 
