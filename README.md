@@ -22,13 +22,13 @@ Together, we’re testing the limits of what I can build with web tech, automati
 
 **Right now I’m:**  
 - Teaching Walter to think without the cloud  
-- Moving into the **FreeCodeCamp Data Visualization** certificate  
+- Moving into the **FreeCodeCamp's Back End Development and APIs** certificate  
 - Stockpiling a growing arsenal of weird and wonderful web projects  
 
 ---
 
 ### 🔮 What’s Next
-- Data Visualization - Which I guess is going to take over from what Power BI would have been used for moving forward.
+- Back End Development and APIs - What goes on behind the scenes.
 - Building **Walter’s Brain**: Obsidian + Docker + Neo4j + local LLMs = my offline cognitive prosthesis  
 
 ---
@@ -45,6 +45,7 @@ Together, we’re testing the limits of what I can build with web tech, automati
 ### FreeCodeCamp Progress
 
 #### ⏳ In Progress:
+-  Back End Development and APIs
 -  Data Visualization 
 
 #### ✅ Completed:
