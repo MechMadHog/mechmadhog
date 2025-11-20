@@ -46,12 +46,12 @@ Together, we’re testing the limits of what I can build with web tech, automati
 
 #### ⏳ In Progress:
 -  Back End Development and APIs
--  Data Visualization 
 
 #### ✅ Completed:
 - [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mechmadhog/javascript-algorithms-and-data-structures-v8)
 - [Front End Development Libraries](https://www.freecodecamp.org/certification/mechmadhog/front-end-development-libraries)
+- [Data Visualization](https://www.freecodecamp.org/certification/mechmadhog/data-visualization)
 
 ---
 
