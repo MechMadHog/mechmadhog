@@ -36,9 +36,8 @@ Together, we’re testing the limits of what I can build with web tech, automati
 ### 🛠️ Tech I’m Playing With
 - **Frontend**: HTML, CSS (custom themes, animations), JavaScript (DOM, regex, games)  
 - **Frameworks**: Jekyll (static sites), CodePen (rapid demos), GitHub Pages (deployment)  
-- **Design Tools**: Figma, Illustrator, Huion Kamvas tablet  
 - **AI/Automation**: n8n, LM Studio, Docker, Anything-LLM  
-- **Platforms**: Windows + Arch Linux (dual-system workflow)  
+- **Platforms**: Omarchy + Windows (dual-system workflow)  
 
 ---
 
