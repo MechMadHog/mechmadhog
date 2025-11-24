@@ -12,7 +12,7 @@ Sometimes sleek. Sometimes experimental. Always functional.
 ---
 
 By day, I’m a **Creative Digital Media graduate** turning ideas into interactive realities.  
-By night, I’m training **Walter**... my offline AI sidekick and soon-to-be neuroprosthesis.  
+By night, I’m training **Walter**… my offline AI sidekick and soon-to-be neuroprosthesis.  
 Together, we’re testing the limits of what I can build with web tech, automation, and a little stubborn curiosity.  
 
 **What I love making:**  
@@ -22,13 +22,14 @@ Together, we’re testing the limits of what I can build with web tech, automati
 
 **Right now I’m:**  
 - Teaching Walter to think without the cloud  
-- Moving into the **FreeCodeCamp's Back End Development and APIs** certificate  
+- Jumping into the **Relational Database Certificate** next  
+- Then looping back to finish the rest of **Back End Development and APIs**  
 - Stockpiling a growing arsenal of weird and wonderful web projects  
 
 ---
 
 ### 🔮 What’s Next
-- Back End Development and APIs - What goes on behind the scenes.
+- Back End Development and APIs — what goes on behind the scenes  
 - Building **Walter’s Brain**: Obsidian + Docker + Neo4j + local LLMs = my offline cognitive prosthesis  
 
 ---
@@ -38,13 +39,17 @@ Together, we’re testing the limits of what I can build with web tech, automati
 - **Frameworks**: Jekyll (static sites), CodePen (rapid demos), GitHub Pages (deployment)  
 - **AI/Automation**: n8n, LM Studio, Docker, Anything-LLM  
 - **Platforms**: Omarchy + Windows (dual-system workflow)  
+- **New Priorities**:  
+  - Switching fully over to **Linux**  
+  - Getting comfortable with **Node.js**
 
 ---
 
 ### FreeCodeCamp Progress
 
 #### ⏳ In Progress:
--  Back End Development and APIs
+- Back End Development and APIs  
+- Relational Database Certificate (next up)
 
 #### ✅ Completed:
 - [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)
@@ -54,6 +59,6 @@ Together, we’re testing the limits of what I can build with web tech, automati
 
 ---
 
-⚡ **Fun fact**: I have **dyspraxia**, which means my thoughts often take the scenic route… perfect for finding the solutions no one else sees.  
+⚡ **Fun fact**: I have **dyspraxia**, which means my thoughts often take the scenic route… perfect for finding the solutions no one else sees.
 
-Take a look around; you’ll find working prototypes, polished builds, and the occasional “happy accident.”  
+Take a look around; you’ll find working prototypes, polished builds, and the occasional “happy accident.”
