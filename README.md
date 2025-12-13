@@ -22,14 +22,16 @@ Together, we’re testing the limits of what I can build with web tech, automati
 
 **Right now I’m:**  
 - Teaching Walter to think without the cloud  
-- Jumping into the **Relational Database Certificate** next  
-- Then looping back to finish the rest of **Back End Development and APIs**  
-- Stockpiling a growing arsenal of weird and wonderful web projects  
+- Finishing my **Full-Stack Certificate** 
+  (This requires completing a total of 8 certificates to earn
+  it's like a mini degree - and tbh has been just as difficult to accomplish.)
+- Stockpiling a growing arsenal of weird and wonderful web projects
+- Building various sites for my portfolio  
 
 ---
 
 ### 🔮 What’s Next
-- Back End Development and APIs — what goes on behind the scenes  
+- Testing & Debugging (safe guarding my projects)  
 - Building **Walter’s Brain**: Obsidian + Docker + Neo4j + local LLMs = my offline cognitive prosthesis  
 
 ---
@@ -48,14 +50,18 @@ Together, we’re testing the limits of what I can build with web tech, automati
 ### FreeCodeCamp Progress
 
 #### ⏳ In Progress:
-- Back End Development and APIs  
-- Relational Database Certificate (next up)
+- Quality Assurance (Testing) & Information Security (Exploits) 
+  This is all that is necessary to complete to gain my **Full-Stack Certificate**
+
+#### ⏳ Still To Come:
+- Relational Database Certificate (next up... I want to have my new machine for this.)
 
 #### ✅ Completed:
 - [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mechmadhog/javascript-algorithms-and-data-structures-v8)
 - [Front End Development Libraries](https://www.freecodecamp.org/certification/mechmadhog/front-end-development-libraries)
 - [Data Visualization](https://www.freecodecamp.org/certification/mechmadhog/data-visualization)
+- [Back End Development and APIs](https://www.freecodecamp.org/certification/mechmadhog/back-end-development-and-apis)
 
 ---
 
