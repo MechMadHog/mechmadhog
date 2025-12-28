@@ -1,70 +1,85 @@
-## Hey, I'm Mike MacDonagh - aka **Mechanical Mad Hog**
+## Hey, I’m Mike MacDonagh – aka **Mechanical Mad Hog**
 
-I build things that live where **design** meets **development**.  
-Sometimes sleek. Sometimes experimental. Always functional.  
+I build things where **design** meets **development**.  
+Sometimes sleek. Sometimes experimental. Always meant to work.
 
-### Where to Find Me
-- [💼 michaelmacdonagh.net](https://michaelmacdonagh.net) - Professional portfolio, CV, and client-ready work.   
-- [🌐 mechmadhog.com](https://mechmadhog.com) - Personal hub for experiments, projects, and writing.  
-- [🧪 CodePen Demos](https://codepen.io/collection/OyNaGb) - All Responsive Web Design projects (20 total).  
-- [🔗 LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/) - Let’s connect.  
+I’m drawn to systems that are easy to understand, flexible over time, and don’t fall apart the moment real people start using them.
 
 ---
 
-By day, I’m a **Creative Digital Media graduate** turning ideas into interactive realities.  
-By night, I’m training **Walter**… my offline AI sidekick and soon-to-be neuroprosthesis.  
-Together, we’re testing the limits of what I can build with web tech, automation, and a little stubborn curiosity.  
+### Where to Find Me
+- [💼 michaelmacdonagh.net](https://michaelmacdonagh.net) – Professional portfolio, CV, and client-ready work  
+- [🌐 mechmadhog.com](https://mechmadhog.com) – Personal hub for experiments, projects, and writing  
+- [🧪 CodePen Demos](https://codepen.io/Mike-MacDonagh/collections/) – All of my live projects  
+- [🔗 LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/) – Let’s connect  
 
-**What I love making:**  
-- 🎨 Interfaces that look good *and* feel good to use  
-- 🖥️ Tools that actually make people’s lives easier  
-- 🔧 Odd little experiments that somehow… work  
+---
 
-**Right now I’m:**  
-- Teaching Walter to think without the cloud  
-- Finishing my **Full-Stack Certificate** 
-  (This requires completing a total of 8 certificates to earn
-  it's like a mini degree - and tbh has been just as difficult to accomplish.)
-- Stockpiling a growing arsenal of weird and wonderful web projects
-- Building various sites for my portfolio  
+I’m a **Creative Digital Media**'er who enjoys turning rough ideas into things that actually function.  
+At the moment, a lot of my spare time goes into **Walter**… an offline AI project I’m building to help me think, explore ideas, and stress-test systems.
+
+Most of what I do comes down to pushing tools and workflows until the cracks show, then figuring out how to make them stronger.
+
+---
+
+### What I Like Building
+- 🎨 Interfaces that look good *and* feel straightforward to use  
+- 🖥️ Tools that save time by removing unnecessary steps  
+- 🔧 Small, slightly odd experiments that slowly turn into solid systems  
+
+---
+
+### Right Now I’m
+- Teaching Walter to run **without the cloud**
+- Finishing my **Full-Stack Certificate**  
+  (Eight certificates in total… basically a self-directed mini degree)
+- Revisiting existing projects to challenge assumptions and edge cases
+- Growing my portfolio with systems that are **robust, inspectable, and maintainable**
 
 ---
 
 ### 🔮 What’s Next
-- Testing & Debugging (safe guarding my projects)  
-- Building **Walter’s Brain**: Obsidian + Docker + Neo4j + local LLMs = my offline cognitive prosthesis  
+- Treating testing and debugging as part of the build, not a clean-up step  
+- Building **Walter’s Brain**  
+  Obsidian + Docker + Neo4j + local LLMs  
+  An offline environment for reasoning, modelling, and system analysis  
 
 ---
 
-### 🛠️ Tech I’m Playing With
-- **Frontend**: HTML, CSS (custom themes, animations), JavaScript (DOM, regex, games)  
+### 🛠️ Tech I’m Working With
+- **Frontend**: HTML, CSS (custom themes, animations), JavaScript (DOM, regex, small games)  
 - **Frameworks**: Jekyll (static sites), CodePen (rapid demos), GitHub Pages (deployment)  
-- **AI/Automation**: n8n, LM Studio, Docker, Anything-LLM  
+- **AI / Automation**: n8n, LM Studio, Docker, Anything-LLM  
 - **Platforms**: Omarchy + Windows (dual-system workflow)  
 - **New Priorities**:  
-  - Switching fully over to **Linux**  
-  - Getting comfortable with **Node.js**
+  - Moving fully to **Linux**  
+  - Getting more comfortable with **Node.js**  
 
 ---
 
 ### FreeCodeCamp Progress
 
-#### ⏳ In Progress:
-- Quality Assurance (Testing) & Information Security (Exploits) 
-  This is all that is necessary to complete to gain my **Full-Stack Certificate**
+#### ⏳ In Progress
+- Quality Assurance & Testing  
+- Information Security  
 
-#### ⏳ Still To Come:
-- Relational Database Certificate (next up... I want to have my new machine for this.)
+*(These complete the **Full-Stack Certificate**)*
 
-#### ✅ Completed:
-- [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mechmadhog/javascript-algorithms-and-data-structures-v8)
-- [Front End Development Libraries](https://www.freecodecamp.org/certification/mechmadhog/front-end-development-libraries)
-- [Data Visualization](https://www.freecodecamp.org/certification/mechmadhog/data-visualization)
-- [Back End Development and APIs](https://www.freecodecamp.org/certification/mechmadhog/back-end-development-and-apis)
+#### ⏳ Still To Come
+- Relational Database Certificate  
+  Planned alongside my new machine setup
+
+#### ✅ Completed
+- [Responsive Web Design Certificate](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)  
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mechmadhog/javascript-algorithms-and-data-structures-v8)  
+- [Front End Development Libraries](https://www.freecodecamp.org/certification/mechmadhog/front-end-development-libraries)  
+- [Data Visualization](https://www.freecodecamp.org/certification/mechmadhog/data-visualization)  
+- [Back End Development and APIs](https://www.freecodecamp.org/certification/mechmadhog/back-end-development-and-apis)  
 
 ---
 
-⚡ **Fun fact**: I have **dyspraxia**, which means my thoughts often take the scenic route… perfect for finding the solutions no one else sees.
+⚡ **Fun fact**  
+I have **dyspraxia**, which means my thinking tends to be non-linear…  
+useful for spotting patterns, designing systems, and finding solutions that aren’t always obvious.
 
-Take a look around; you’ll find working prototypes, polished builds, and the occasional “happy accident.”
+Have a look around. You’ll find working prototypes, hardened builds, and the occasional happy accident.
