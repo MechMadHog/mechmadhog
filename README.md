@@ -29,20 +29,11 @@ Most of what I do comes down to pushing tools and workflows until the cracks sho
 
 ---
 
-### Right Now I’m
-- Teaching Walter to run **without the cloud**
-- Finishing my **Full-Stack Certificate**  
-  (Eight certificates in total… basically a self-directed mini degree)
-- Revisiting existing projects to challenge assumptions and edge cases
-- Growing my portfolio with systems that are **robust, inspectable, and maintainable**
-
----
-
-### 🔮 What’s Next
-- Treating testing and debugging as part of the build, not a clean-up step  
-- Building **Walter’s Brain**  
-  Obsidian + Docker + Neo4j + local LLMs  
-  An offline environment for reasoning, modelling, and system analysis  
+### Current Focus
+- Building **Walter** as a local-first, cloud-independent system  
+- Completing a **Full-Stack certification pathway** (eight certificates total)  
+- Revisiting and hardening existing projects through testing and edge-case analysis  
+- Expanding my portfolio with systems that are **robust, inspectable, and maintainable**, including an offline stack using Obsidian, Docker, Neo4j, and local LLMs
 
 ---
 
