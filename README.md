@@ -3,7 +3,7 @@
 I build things where **design** meets **development**.  
 Sometimes sleek. Sometimes experimental. Always meant to work.
 
-I’m drawn to systems that are easy to understand, flexible over time, and don’t fall apart the moment real people start using them.
+I am drawn to systems that are easy to understand and don’t fall apart the moment real people start using them.
 
 ---
 
