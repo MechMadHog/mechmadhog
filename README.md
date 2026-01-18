@@ -1,4 +1,4 @@
-## ⚙️😠🐗 Hey, I’m Mike MacDonagh — aka **Mechanical Mad Hog**
+## ⚙️😠🐗 Hey, I’m Mike MacDonagh - aka **Mechanical Mad Hog**
 
 I build things where **design meets development**.  
 Sometimes clean. Sometimes experimental. Always meant to *work*.
@@ -11,16 +11,16 @@ I’m drawn to systems that:
 ---
 
 ### 🌍 Where to Find Me
-- 💼 [michaelmacdonagh.net](https://michaelmacdonagh.net) — professional portfolio, CV, and client-ready work  
-- 🌐 [mechmadhog.com](https://mechmadhog.com) — personal hub for experiments, projects, and writing  
-- 🧪 [CodePen collections](https://codepen.io/Mike-MacDonagh/collections/) — live demos and working builds  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/) — professional contact  
+- 💼 [michaelmacdonagh.net](https://michaelmacdonagh.net) - professional portfolio, CV, and client-ready work  
+- 🌐 [mechmadhog.com](https://mechmadhog.com) - personal hub for experiments, projects, and writing  
+- 🧪 [CodePen collections](https://codepen.io/Mike-MacDonagh/collections/) - live demos and working builds  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/) - professional contact  
 
 ---
 
 I’m a **Creative Digital Media** practitioner who enjoys turning rough ideas into things that actually function.
 
-A lot of my spare time currently goes into **Walter** — an offline, local-first AI system I’m building to help me think, explore ideas, and stress-test workflows.
+A lot of my spare time currently goes into **Walter** - an offline, local-first AI system I’m building to help me think, explore ideas, and stress-test workflows.
 
 Most of what I do comes down to pushing tools until the cracks show, then figuring out how to make them stronger.
 
@@ -74,7 +74,7 @@ Most of what I do comes down to pushing tools until the cracks show, then figuri
 ---
 
 ⚡ **Fun fact**  
-I have **dyspraxia**, which means my thinking tends to be non-linear — useful for spotting patterns, designing systems, and finding solutions that aren’t always obvious.
+I have **dyspraxia**, which means my thinking tends to be non-linear - useful for spotting patterns, designing systems, and finding solutions that aren’t always obvious.
 
 Have a look around.  
 You’ll find working prototypes, hardened builds, and the occasional happy accident.
