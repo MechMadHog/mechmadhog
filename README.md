@@ -4,7 +4,7 @@ I build things because I need them to exist.
 Design and development are just the tools I use to make that happen.
 
 Some of what I build is tidy.  
-Some of it's rough.  
+Some of it is rough.  
 If it’s public, it works well enough to stand over.
 
 I care about systems that make sense when you look at them and still make sense when something goes wrong.
