@@ -1,54 +1,67 @@
-## ⚙️😠🐗 Hey, I’m Mike MacDonagh — aka **Mechanical Mad Hog**
+## ⚙️😠🐗 Hey, I’m Mike MacDonagh aka **Mechanical Mad Hog**
 
-I build things where **design meets development**.  
-Sometimes clean. Sometimes experimental. Always meant to *work*.
+I build things because I need them to exist.  
+Design and development are just the tools I use to make that happen.
 
-I’m drawn to systems that:
-- are easy to reason about 🧠  
-- don’t collapse under real use  
-- trade novelty for durability  
+Some of what I build is tidy.  
+Some of it's rough.  
+If it’s public, it works well enough to stand over.
+
+I care about systems that make sense when you look at them and still make sense when something goes wrong.
 
 ---
 
 ### 🌍 Where to Find Me
-- 💼 [michaelmacdonagh.net](https://michaelmacdonagh.net) — professional portfolio, CV, and client-ready work  
-- 🌐 [mechmadhog.com](https://mechmadhog.com) — personal hub for experiments, projects, and writing  
-- 🧪 [CodePen collections](https://codepen.io/Mike-MacDonagh/collections/) — live demos and working builds  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/) — professional contact  
+- 💼 [michaelmacdonagh.net](https://michaelmacdonagh.net)  
+  Professional portfolio, CV, and finished work
+
+- 🌐 [mechmadhog.com](https://mechmadhog.com)  
+  Personal site for experiments, writing, and unfinished ideas
+
+- 🧪 [CodePen collections](https://codepen.io/Mike-MacDonagh/collections/)  
+  Live demos and small working projects
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/)  
+  Professional contact
 
 ---
 
-I’m a **Creative Digital Media** practitioner who enjoys turning rough ideas into things that actually function.
+I come from a **Creative Digital Media** background, but I’m more interested in whether something holds up than how clever it looks.
 
-A lot of my spare time currently goes into **Walter** — an offline, local-first AI system I’m building to help me think, explore ideas, and stress-test workflows.
+Most of my free time goes into **Walter**, an offline, local-first AI system I’m building for myself.  
+It exists because I think better with tools than without them.
 
-Most of what I do comes down to pushing tools until the cracks show, then figuring out how to make them stronger.
+A lot of my work follows the same pattern:  
+build it, push it, break it, then fix what actually mattered.
 
 ---
 
-### 🧰 What I Like Building
-- 🎨 Interfaces that look good *and* feel straightforward  
-- 🖥️ Tools that remove unnecessary steps  
-- 🔧 Small, slightly odd experiments that evolve into solid systems  
+### 🧰 What I End Up Building
+- Interfaces that are clear and usable  
+- Tools that remove steps instead of adding them  
+- Small ideas that turn into bigger systems over time  
+
+I don’t chase novelty.  
+If something lasts, I keep it.
 
 ---
 
 ### 🎯 Current Focus
 - Building **Walter** as a local-first, cloud-independent system  
-- Completing a **Full-Stack certification pathway** (eight certificates total)  
-- Revisiting and hardening existing projects through testing and edge-case analysis  
-- Expanding my portfolio with systems that are **robust, inspectable, and maintainable**, including an offline stack using Obsidian, Docker, Neo4j, and local LLMs  
+- Completing a **Full-Stack certification pathway**  
+- Reworking older projects so they are simpler and stronger  
+- Building systems that are understandable without explanation  
 
 ---
 
-### 🛠️ Tech I’m Working With
-- **Frontend**: HTML, CSS (custom themes, animations), JavaScript (DOM, regex, small games)  
-- **Frameworks**: Jekyll (static sites), CodePen (rapid demos), GitHub Pages (deployment)  
+### 🛠️ Tech I’m Using
+- **Frontend**: HTML, CSS, JavaScript  
+- **Frameworks**: Jekyll, CodePen, GitHub Pages  
 - **AI / Automation**: n8n, LM Studio, Docker, Anything-LLM  
-- **Platforms**: Omarchy + Windows (dual-system workflow)  
-- **Current Priorities**:  
-  - Moving fully to **Linux** 🐧  
-  - Becoming more comfortable with **Node.js**  
+- **Platforms**: Omarchy and Windows  
+- **Currently**:
+  - Moving more of my work to **Linux** 🐧  
+  - Getting more comfortable with **Node.js**  
 
 ---
 
@@ -58,11 +71,10 @@ Most of what I do comes down to pushing tools until the cracks show, then figuri
 - Quality Assurance & Testing  
 - Information Security  
 
-*(These complete the **Full-Stack Certificate**)*
+*(These complete the Full-Stack Certificate)*
 
 #### ⏳ Still To Come
 - Relational Database Certificate  
-  Planned alongside my new machine setup
 
 #### ✅ Completed
 - [Responsive Web Design](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)  
@@ -74,7 +86,7 @@ Most of what I do comes down to pushing tools until the cracks show, then figuri
 ---
 
 ⚡ **Fun fact**  
-I have **dyspraxia**, which means my thinking tends to be non-linear — useful for spotting patterns, designing systems, and finding solutions that aren’t always obvious.
+I have **dyspraxia**.  
+It means my thinking is not linear. That turns out to be useful when building systems and spotting problems early.
 
-Have a look around.  
-You’ll find working prototypes, hardened builds, and the occasional happy accident.
+If you’re looking through the repos, expect working code, half-built ideas, and things that were rebuilt more than once.
