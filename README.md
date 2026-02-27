@@ -1,13 +1,13 @@
 ## ⚙️😠🐗 Hey, I’m Mike MacDonagh aka **Mechanical Mad Hog**
 
-I build things because I need them to exist.  
-Design and development are just the tools I use to make that happen.
+I build things I need, so they exist.  
+Design and development are just tools I use to make that happen.
 
 Some of what I build is tidy.  
-Some of it is rough.  
-If it’s public, it works well enough to stand over.
+Some of it is not.  
+If it’s public, it works well enough to show off.
 
-I care about systems that make sense when you look at them and still make sense when something goes wrong.
+I care about the systems that make sense.
 
 ---
 
