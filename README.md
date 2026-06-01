@@ -1,107 +1,162 @@
 ## ⚙️😠🐗 Hey, I’m Mike MacDonagh aka **Mechanical Mad Hog**
 
-I build things I need, so they exist.  
-Design and development are just tools I use to make that happen.
+I build things because I need them.
 
-Some of what I build is tidy.  
-Some of it is not.  
-If it’s public, it works well enough to show off.
+Sometimes that's a website.
+Sometimes it's a tool.
+Sometimes it's an entire system that probably shouldn't exist but does now because I got annoyed enough to build it.
 
-I care about systems that make sense and tools that stay useful.
+Design and development are just how I solve problems.
+
+Most of what I make starts with:
+
+> "There has to be a better way to do this."
 
 ---
 
 ### 🌍 Where to Find Me
-- 💼 [michaelmacdonagh.net](https://michaelmacdonagh.net)  
-  Professional portfolio, CV, and finished work
 
-- 🌐 [mechmadhog.com](https://mechmadhog.com)  
-  Personal site for experiments, writing, systems, and unfinished ideas
+* 💼 [michaelmacdonagh.net](https://michaelmacdonagh.net)
+  Professional portfolio, CV, and work history
 
-- 🧪 [CodePen collections](https://codepen.io/Mike-MacDonagh/collections/)  
-  Live demos and smaller working projects
+* 🌐 [mechmadhog.com](https://mechmadhog.com)
+  Personal projects, writing, experiments, systems, and whatever I'm currently obsessing over
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/)  
+* 🧪 [CodePen Collections](https://codepen.io/Mike-MacDonagh/collections/)
+  Smaller projects, demos, and ideas that escaped containment
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/)
   Professional contact
 
 ---
 
-I come from a **Creative Digital Media** background, but I care more about whether something holds up than how clever it looks.
+I come from a **Creative Digital Media** background, but these days I'm far more interested in whether something works than whether it looks clever.
 
-Most of my free time goes into building systems around how I actually think and work.
+A lot of my time is spent building systems around how I actually think, learn, organise information, and get things done.
 
 That currently means:
-- expanding my vaults and structured knowledge systems
-- improving my websites and adding new features
-- refining local-first workflows
-- using AI daily for planning, organisation, writing, and problem solving
 
-A lot of what I build starts as infrastructure for future ideas.
+* expanding my vaults and knowledge systems
+* improving my websites and adding new features
+* documenting ideas before they disappear
+* refining local-first workflows
+* using AI as a planning, writing, organisation, and problem-solving tool
+
+Most of these projects aren't products.
+
+They're infrastructure.
+
+The foundations for future projects, future writing, and future ideas.
 
 ---
 
-### 🧰 What I End Up Building
-- Interfaces that are clear and usable
-- Tools that remove steps instead of adding them
-- Documentation systems that remain understandable later
-- Small ideas that slowly turn into larger systems
+### 🧰 What I Tend To Build
 
-I don’t chase novelty.  
-If something lasts, I keep it.
+* Tools that remove unnecessary steps
+* Systems that make information easier to find
+* Documentation that still makes sense six months later
+* Interfaces that prioritise clarity over decoration
+* Small projects that slowly evolve into larger ones
+
+I don't build things because they're trendy.
+
+I build things because they're useful.
+
+If they remain useful, they stay.
+
+If they don't, I rebuild them.
 
 ---
 
 ### 🎯 Current Focus
-- Expanding my personal knowledge vaults and documentation systems
-- Building new features for my websites
-- Writing and blogging more consistently
-- Completing the remaining Full-Stack certifications
-- Refining local-first and AI-assisted workflows
-- Reworking older projects so they are simpler and stronger
+
+* Expanding my personal vaults and documentation systems
+* Building new features across my websites
+* Writing and blogging more consistently
+* Completing the remaining FreeCodeCamp certifications
+* Refining AI-assisted workflows
+* Simplifying and rebuilding older projects
 
 ---
 
-### 🛠️ Tech I’m Using
-- **Frontend**: HTML, CSS, JavaScript
-- **Frameworks**: Jekyll, GitHub Pages, CodePen
-- **AI / Automation**: ChatGPT, n8n, LM Studio, Docker, Anything-LLM
-- **Platforms**: Omarchy Linux and Windows
+### 🛠️ What I'm Using
 
-#### Current Workflow
-- AI-assisted planning and organisation
-- Local-first tooling and experimentation
-- Structured vaults and long-term documentation
-- Building publicly and refining continuously
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+
+**Platforms & Tools**
+
+* Jekyll
+* GitHub Pages
+* CodePen
+* Docker
+* n8n
+
+**AI & Local AI**
+
+* ChatGPT
+* LM Studio
+* AnythingLLM
+
+**Operating Systems**
+
+* Omarchy Linux
+* Windows
+
+---
+
+### Current Workflow
+
+* AI-assisted planning and organisation
+* Local-first tooling wherever practical
+* Long-term documentation and knowledge management
+* Building publicly
+* Continuous iteration
 
 ---
 
 ### 🎓 FreeCodeCamp Progress
 
 #### ⏳ In Progress
-- Quality Assurance & Testing
-- Information Security
 
-*(These complete the Full-Stack Certificate)*
+* Quality Assurance & Testing
+* Information Security
+
+*(Completing the Full-Stack path.)*
 
 #### ⏳ Still To Come
-- Relational Database Certificate
+
+* Relational Database
 
 #### ✅ Completed
-- [Responsive Web Design](https://www.freecodecamp.org/certification/mechmadhog/responsive-web-design)
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/mechmadhog/javascript-algorithms-and-data-structures-v8)
-- [Front End Development Libraries](https://www.freecodecamp.org/certification/mechmadhog/front-end-development-libraries)
-- [Data Visualization](https://www.freecodecamp.org/certification/mechmadhog/data-visualization)
-- [Back End Development and APIs](https://www.freecodecamp.org/certification/mechmadhog/back-end-development-and-apis)
+
+* Responsive Web Design
+* JavaScript Algorithms and Data Structures
+* Front End Development Libraries
+* Data Visualization
+* Back End Development and APIs
 
 ---
 
-⚡ **Fun fact**  
-A lot of my projects get rebuilt multiple times before they settle into their final form.
+### ⚡ Fun Fact
 
-If you look through the repos, expect:
-- practical systems
-- rebuilt ideas
-- experiments that became tools
-- and a lot of iteration
+Most of my projects get rebuilt multiple times.
 
-Most things here exist because I needed them first.
+The first version proves the idea.
+
+The second version fixes the mistakes.
+
+The third version is usually the one that should have existed in the first place.
+
+So if you're browsing my repositories, expect:
+
+* practical systems
+* rebuilt ideas
+* experiments that became tools
+* unfinished prototypes
+* and a lot of iteration
+
+Most of it exists because I needed it first.
