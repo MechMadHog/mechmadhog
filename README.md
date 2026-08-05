@@ -1,16 +1,16 @@
 ## ⚙️😠🐗 Hey, I’m Mike MacDonagh aka **Mechanical Mad Hog**
 
-I build things because I need them.
+I build things when I need them.
 
 Sometimes that's a website.
 Sometimes it's a tool.
 Sometimes it's an entire system that probably shouldn't exist but does now because I got annoyed enough to build it.
 
-Design and development are just how I solve problems.
+Bitta both; Design & Development are just how I solve problems.
 
 Most of what I make starts with:
 
-> "There has to be a better way to do this."
+> "There must to be a better way."
 
 ---
 
