@@ -40,9 +40,13 @@ Most of what I make starts with:
 
 ## 🔨 Currently
 
-Building practical skills around **LLMs, AI agents, RAG, embeddings, vector search, tool use, structured outputs, and automated workflows**.
-Exploring the full lifecycle of AI-powered applications, from **prompt and context engineering** through to **local models, APIs, orchestration, evaluation, and deployment**.
-The focus is on building useful systems with AI, not just using AI as a chatbot.
+| | |
+|---|---|
+| **LLM Applications** | Building AI-powered applications and agentic systems |
+| **Context & Retrieval** | RAG • Embeddings • Vector Search • Context Engineering |
+| **Integration** | APIs • Tool Use • Structured Outputs • Automation |
+| **Models** | Local LLMs • Model Selection • Evaluation |
+| **Delivery** | Orchestration • Deployment • Practical AI workflows |
 
 ---
 
