@@ -1,4 +1,4 @@
-# ⚙️😠🐗 Hey, I'm Mike MacDonagh
+# Hey, I'm Mike MacDonagh ⚙️😠🐗
 
 I'm a **Full-Stack Developer and digital problem solver** from Mullingar, Ireland.
 
@@ -22,9 +22,8 @@ Most of what I make starts with:
 
 ## 🛠️ Technologies & Tools
 
-| | |
 |---|---|
-| **Development** | HTML • CSS • JavaScript • TypeScript • Node.js |
+| **Development** | HTML • CSS • JavaScript • React • TypeScript • Node.js |
 | **Web** | WordPress • Jekyll • GitHub Pages |
 | **AI & Automation** | ChatGPT • Ollama • n8n • Local LLMs |
 | **Tools** | Git • Docker • VS Codium • CodePen |
@@ -34,13 +33,12 @@ Most of what I make starts with:
 
 ## 🎓 Certification
 
-🏆 [**freeCodeCamp Full Stack Developer**](https://www.freecodecamp.org/certification/mechmadhog/full-stack)
+I am as of now a **freeCodeCamp** [**Full Stack Developer**](https://www.freecodecamp.org/certification/mechmadhog/full-stack) through the completion of several fCC Certificates in all of the relevant fields of essentially a MERN-STACK, including Data Visualisation, Testing and Security.
 
 ---
 
 ## 🔨 Currently
 
-| | |
 |---|---|
 | **LLM Applications** | Building AI-powered applications and agentic systems |
 | **Context & Retrieval** | RAG • Embeddings • Vector Search • Context Engineering |
