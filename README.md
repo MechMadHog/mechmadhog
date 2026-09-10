@@ -13,9 +13,9 @@ Design and development are just how I solve problems.
 Most of what I make starts with:
 > "There must to be a better way."
 
-[🌐 Portfolio](https://michaelmacdonagh.net) •
-[🐗 MechMadHog](https://mechmadhog.com) •
-[🧪 CodePen](https://codepen.io/Mike-MacDonagh/collections/) •
+[🌐 Portfolio](https://michaelmacdonagh.net) │
+[🐗 MechMadHog](https://mechmadhog.com) │
+[🧪 CodePen](https://codepen.io/Mike-MacDonagh/collections/) │
 [💼 LinkedIn](https://www.linkedin.com/in/michaelmacdonagh/)
 
 ---
