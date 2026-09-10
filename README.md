@@ -22,6 +22,7 @@ Most of what I make starts with:
 
 ## 🛠️ Technologies & Tools
 
+| | |
 |---|---|
 | **Development** | HTML • CSS • JavaScript • React • TypeScript • Node.js |
 | **Web** | WordPress • Jekyll • GitHub Pages |
@@ -39,6 +40,7 @@ I am as of now a **freeCodeCamp** [**Full Stack Developer**](https://www.freecod
 
 ## 🔨 Currently
 
+| | |
 |---|---|
 | **LLM Applications** | Building AI-powered applications and agentic systems |
 | **Context & Retrieval** | RAG • Embeddings • Vector Search • Context Engineering |
