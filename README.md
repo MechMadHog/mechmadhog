@@ -24,12 +24,12 @@ Most of what I make starts with:
 
 | | |
 |---|---|
-| **Development** | HTML • CSS • JavaScript • React • TypeScript • Node.js |
-| **Data** | MongoDB • MySQL • SQL • SharePoint |
-| **Web** | WordPress • Jekyll • GitHub Pages |
-| **AI & Automation** | ChatGPT • Ollama • n8n • Local LLMs |
-| **Tools** | Git • Docker • VS Codium • CodePen |
-| **Systems** | Omarchy Linux • Windows |
+| **Development** | MERN Stack, JavaScript, TypeScript, HTML, CSS |
+| **Data** | MongoDB, MySQL, SQL, SharePoint |
+| **Web** | WordPress, Jekyll, GitHub Pages |
+| **AI & Automation** | ChatGPT, Ollama, n8n, Local LLMs |
+| **Tools** | Git, Docker, VS Codium, CodePen |
+| **Systems** | Omarchy Linux, Windows |
 
 ---
 
@@ -44,10 +44,10 @@ I am as of now a **freeCodeCamp** [**Full Stack Developer**](https://www.freecod
 | | |
 |---|---|
 | **LLM Applications** | Building AI-powered applications and agentic systems |
-| **Context & Retrieval** | RAG • Embeddings • Vector Search • Context Engineering |
-| **Integration** | APIs • Tool Use • Structured Outputs • Automation |
-| **Models** | Local LLMs • Model Selection • Evaluation |
-| **Delivery** | Orchestration • Deployment • Practical AI workflows |
+| **Context & Retrieval** | RAG, Embeddings, Vector Search, Context Engineering |
+| **Integration** | APIs, Tool Use, Structured Outputs, Automation |
+| **Models** | Local LLMs, Model Selection, Evaluation |
+| **Delivery** | Orchestration, Deployment, Practical AI workflows |
 
 ---
 
