@@ -26,7 +26,7 @@ Most of what I make starts with:
 |---|---|
 | **Development** | MERN Stack, JavaScript, TypeScript, HTML, CSS |
 | **Data** | MongoDB, MySQL, SQL, SharePoint |
-| **Web** | WordPress, Jekyll, GitHub Pages |
+| **Web** | Jekyll, GitHub Pages, WordPress |
 | **AI & Automation** | ChatGPT, Ollama, n8n, Local LLMs |
 | **Tools** | Git, Docker, VS Codium, CodePen |
 | **Systems** | Omarchy Linux, Windows |
