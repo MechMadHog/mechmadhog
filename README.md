@@ -25,6 +25,7 @@ Most of what I make starts with:
 | | |
 |---|---|
 | **Development** | HTML • CSS • JavaScript • React • TypeScript • Node.js |
+| **Data & Databases** | MongoDB • MySQL • SQL • SharePoint |
 | **Web** | WordPress • Jekyll • GitHub Pages |
 | **AI & Automation** | ChatGPT • Ollama • n8n • Local LLMs |
 | **Tools** | Git • Docker • VS Codium • CodePen |
